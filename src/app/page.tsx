@@ -1,0 +1,6 @@
+import { Metadata } from "next"; import Link from "next/link"; import { getAllSlugs, getArticle } from "@/lib/articles";
+export const metadata: Metadata = { title:"Wedding Planning Templates: Free Checklists & Timelines (2026)",description:"Free wedding planning templates, checklists, and guides for 2026. Budget trackers, vendor lists, seating charts — everything in one place.",alternates:{canonical:"https://weddingplanningtemplates.com"}};
+export default async function HomePage() {
+  const articles = (await Promise.all(getAllSlugs().map(s=>getArticle(s)))).filter(Boolean);
+  return (<main className="max-w-4xl mx-auto px-4 py-12"><h1 className="text-4xl font-bold text-slate-900 mb-4">Wedding Planning Templates</h1><p className="text-xl text-slate-600 mb-12">Free checklists, timelines, and planning guides for your perfect 2026 wedding.</p><div className="grid gap-6">{articles.map(a=>a&&(<Link key={a.slug} href={`/${a.slug}`} className="block p-6 border border-slate-200 rounded-xl hover:border-pink-400 hover:shadow-md transition-all"><h2 className="text-xl font-semibold text-slate-900 mb-2">{a.title}</h2><p className="text-slate-600">{a.description}</p><span className="inline-block mt-3 text-sm font-medium text-pink-600">Read guide →</span></Link>))}</div></main>);
+}
