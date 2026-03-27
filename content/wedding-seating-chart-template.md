@@ -1,6 +1,8 @@
 ---
 title: 'Wedding Seating Chart Template 2026: Free Guide'
 meta_description: 'Free wedding seating chart template for 2026: table layout tools, seating rules, drama-free tips for difficult family dynamics, and a printable planner →'
+article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Wedding Seating Chart Template 2026: Free Guide","description":"Free wedding seating chart template for 2026: table layout tools, seating rules, drama-free tips for difficult family dynamics, and a printable planner \u2192","author":{"@type":"Person","name":"Emma Collins"},"publisher":{"@type":"Organization","name":"Start Wedding Planning","url":"https://startweddingplanning.com"},"datePublished":"2026-03-10","dateModified":"2026-03-10","mainEntityOfPage":{"@type":"WebPage","@id":"https://startweddingplanning.com/wedding-seating-chart-template"},"image":"https://startweddingplanning.com/og-image.jpg"}'
+faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Seating Chart Tools Compared","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://startweddingplanning.com/wedding-seating-chart-template for comprehensive information about seating chart tools compared."}},{"@type":"Question","name":"The Table Assignment System","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://startweddingplanning.com/wedding-seating-chart-template for comprehensive information about the table assignment system."}},{"@type":"Question","name":"Handling Difficult Family Dynamics","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://startweddingplanning.com/wedding-seating-chart-template for comprehensive information about handling difficult family dynamics."}},{"@type":"Question","name":"Head Table Options","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://startweddingplanning.com/wedding-seating-chart-template for comprehensive information about head table options."}},{"@type":"Question","name":"Children at Weddings: Seating Strategy","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://startweddingplanning.com/wedding-seating-chart-template for comprehensive information about children at weddings: seating strategy."}},{"@type":"Question","name":"The Final Seating Chart Checklist","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://startweddingplanning.com/wedding-seating-chart-template for comprehensive information about the final seating chart checklist."}}]}'
 ---
 
 # Wedding Seating Chart Template 2026: The Drama-Free Guide
@@ -10,17 +12,25 @@ meta_description: 'Free wedding seating chart template for 2026: table layout to
 **Wedding seating charts cause more planning stress than almost any other task. Not because they're complicated — because the social dynamics are. This guide gives you a systematic approach to seating that manages family politics, keeps difficult personalities separated, and ensures every guest feels considered.**
 
 ## Table of Contents
-- [Seating Chart Tools Compared](#tools)
-- [Table Assignment System](#system)
-- [Handling Difficult Family Dynamics](#dynamics)
-- [Head Table Options](#head-table)
-- [Children at Weddings: Seating Strategy](#children)
-- [The Final Seating Chart Checklist](#checklist)
-- [Printable Template](#template)
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;">
+  <iframe 
+    src="https://www.youtube.com/embed/bQVkVJri5v8" 
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
+    allowfullscreen loading="lazy" title="Wedding planning guide video">
+  </iframe>
+</div>
+- [Seating Chart Tools Compared](#seating-chart-tools-compared)
+- [Table Assignment System](#the-table-assignment-system)
+- [Handling Difficult Family Dynamics](#handling-difficult-family-dynamics)
+- [Head Table Options](#head-table-options)
+- [Children at Weddings: Seating Strategy](#children-at-weddings-seating-strategy)
+- [The Final Seating Chart Checklist](#the-final-seating-chart-checklist)
+- [Printable Template](#printable-seating-chart-template)
 - [FAQ](#faq)
 - [Sources](#sources)
 
-## Seating Chart Tools Compared {#tools}
+## Seating Chart Tools Compared
 
 | Tool | Best For | Price | Key Feature |
 |------|----------|-------|-------------|
@@ -33,7 +43,7 @@ meta_description: 'Free wedding seating chart template for 2026: table layout to
 
 **For most couples:** Google Sheets for planning logistics (easily updated), then export to Canva for the display chart at the venue. This two-tool approach costs nothing and handles every seating scenario.
 
-## The Table Assignment System {#system}
+## The Table Assignment System
 
 ### Step 1: Group Guests Before Assigning Tables
 
@@ -65,7 +75,7 @@ Assign entire groups to tables — mixing unrelated groups creates awkward stran
 
 Standard banquet tables seat 8-10 guests. Round tables seat 8 more intimately than rectangular. For groups over 10, split across two adjacent tables — never force 12 onto a 10-person table.
 
-## Handling Difficult Family Dynamics {#dynamics}
+## Handling Difficult Family Dynamics
 
 ### Divorced Parents
 
@@ -83,7 +93,7 @@ Former partners of either bride or groom attending the wedding (as friends) shou
 
 Guests attending alone or with unfamiliar plus-ones need seating with the most socially inclusive, outgoing guests. Identify 2-3 tables with "anchors" — guests who naturally draw people into conversation — and seat solo guests there.
 
-## Head Table Options {#head-table}
+## Head Table Options
 
 ### Option 1: Traditional Head Table (Rectangular, Couple + Wedding Party)
 
@@ -119,7 +129,7 @@ Guests attending alone or with unfamiliar plus-ones need seating with the most s
 
 **Advantage:** Couple spends time with every guest instead of being stationary
 
-## Children at Weddings: Seating Strategy {#children}
+## Children at Weddings: Seating Strategy
 
 ### The Kids' Table
 
@@ -139,7 +149,7 @@ For weddings with 10+ children over age 4, a dedicated kids' table with colourin
 - Small activity bags (stickers, small toys)
 - Name cards (children love having their own place card)
 
-## The Final Seating Chart Checklist {#checklist}
+## The Final Seating Chart Checklist
 
 Before finalising:
 
@@ -155,7 +165,7 @@ Before finalising:
 - [ ] Head table configuration confirmed with venue
 - [ ] Display chart at venue entrance is legible at 3-foot reading distance
 
-## Printable Seating Chart Template {#template}
+## Printable Seating Chart Template
 
 **Google Sheets format (recommended):**
 
@@ -177,7 +187,7 @@ Numbered table ovals with guest names listed in each.
 
 Most wedding planners recommend alphabetical list display — guests can find their name in seconds and clear the entrance quickly.
 
-## FAQ {#faq}
+## FAQ
 
 **When should I finalise the seating chart?**
 Start the seating chart after RSVPs are due (typically 8 weeks before the wedding). Finalise by 4 weeks out — you need it to submit to the caterer and venue. Build in one revision at 2 weeks for late RSVPs and cancellations.
@@ -197,11 +207,11 @@ Yes, but communicate changes to your venue coordinator immediately. The catering
 **What do I do if a vendor doesn't attend on the day?**
 An empty seat is fine — don't reshuffle an entire table for one absent guest. Notify the caterer to remove that meal from the count. If multiple guests no-show, the catering adjustment happens at the final headcount stage (typically 48-72 hours before the wedding).
 
-## Sources {#sources}
+## Sources
 
 - Wedding industry survey data: Zola 2025 Wedding Planning Report
 - AllSeated platform data on average table management complexity
-- The Knot Seating Chart Best Practices 2025
+- [The Knot](https://www.amazon.com/s?k=The+Knot+wedding+planner&tag=theforge05-20) Seating Chart Best Practices 2025
 - Wedding planner association (ABIA) guidelines: guest experience optimisation
 
 ---

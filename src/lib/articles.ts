@@ -26,18 +26,37 @@ function toSlug(text: string): string {
   return text.toLowerCase().replace(/[^a-z0-9\s-]/g, "").replace(/\s+/g, "-").replace(/-+/g, "-").trim();
 }
 
+function isPlaceholderFaq(parsed: Record<string, unknown>): boolean {
+  const entities = (parsed.mainEntity as Array<Record<string, unknown>>) || [];
+  if (!entities.length) return false;
+  return entities.every((e: Record<string, unknown>) => {
+    const ans = (e.acceptedAnswer as Record<string, unknown>)?.text as string || "";
+    return ans.includes("See the full guide on ");
+  });
+}
+
 function parseJsonField(value: unknown): Record<string, unknown> | null {
   if (!value || typeof value !== "string") return null;
   try {
-    const normalized = value.replaceAll("https://personalfinancetemplates.com", "https://personalfinancetemplates.com");
-    return JSON.parse(normalized);
+    const normalized = value;
+    const parsed = JSON.parse(normalized);
+    if (parsed["@type"] === "FAQPage" && isPlaceholderFaq(parsed)) return null;
+    return parsed;
   } catch {
     return null;
   }
 }
 
+function normalizeDateField(value: unknown, fallback: string): string {
+  if (typeof value === "string") return value;
+  if (value instanceof Date) return value.toISOString().slice(0, 10);
+  return fallback;
+}
+
 function processContent(raw: string): string {
   let processed = raw;
+  // Strip heading ID syntax {#...}
+  processed = processed.replace(/\{#[^}]+\}/g, "");
   processed = processed.trimStart().replace(/^#\s+.*\n+/, "");
   processed = processed.replace(/\[INTERNAL:\s*([\w-]+)\]\((.*?)\)/g, "[$2](/$1)");
   processed = processed.replace(/\[INTERNAL:\s*([\w-]+)\]/g, "[$1](/$1)");
@@ -56,10 +75,10 @@ export async function getArticle(slug: string): Promise<Article | null> {
   const result = await remark().use(remarkGfm).use(html, { sanitize: false }).process(content);
 
   const title = (data.title as string) || slug;
-  const description = (data.meta_description as string) || "Personal finance template guide article.";
-  const author = (data.author as string) || "Dr. Alex Chen";
-  const date = (data.datePublished as string) || "2026-03-10";
-  const dateModified = (data.dateModified as string) || date;
+  const description = (data.meta_description as string) || (data.description as string) || "Personal finance template guide article.";
+  const author = (data.author as string) || "Start Wedding Planning";
+  const date = normalizeDateField(data.datePublished, "2026-03-10");
+  const dateModified = normalizeDateField(data.dateModified, date);
   const category = "Guide";
 
   let htmlContent = result.toString();
