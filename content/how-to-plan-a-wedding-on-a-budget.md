@@ -59,7 +59,7 @@ Do NOT include:
 
 ### Step 2: Set a Firm Number
 
-Write this number down. Put it at the top of your [budget spreadsheet](/content/wedding-budget-template-2026). This is your ceiling. Every decision that follows works within this number.
+Write this number down. Put it at the top of your budget spreadsheet. This is your ceiling. Every decision that follows works within this number.
 
 ### Step 3: Allocate With a Buffer
 
@@ -67,7 +67,7 @@ Take your total budget and set aside 10% as a contingency fund. Your planning bu
 
 **Example**: Total budget is $20,000. Contingency: $2,000. Planning budget: $18,000.
 
-That contingency fund isn't for upgrades. It's for the inevitable surprises — the overtime fee you forgot, the table linens the venue doesn't include, the postage that costs more than you expected. For a complete list of hidden costs, see our [wedding budget guide](/content/wedding-budget-template-2026).
+That contingency fund isn't for upgrades. It's for the inevitable surprises — the overtime fee you forgot, the table linens the venue doesn't include, the postage that costs more than you expected. For a complete list of hidden costs, see our wedding budget guide.
 
 ### Step 4: Decide What Matters Most
 
@@ -180,7 +180,7 @@ Beer and wine with one or two signature cocktails is the budget-friendly sweet s
 
 This is the single most powerful budget lever in your entire wedding. Every guest you remove saves $150-$300 in food, drinks, rental, and favors. Cutting 20 guests saves $3,000-$6,000.
 
-Be ruthless about your [guest list](/content/wedding-guest-list-template). Invite people you genuinely want there, not people you feel obligated to include.
+Be ruthless about your guest list. Invite people you genuinely want there, not people you feel obligated to include.
 
 ### Skip the Cake-Cutting Fee
 
@@ -290,7 +290,7 @@ If you want physical invitations:
 
 - Ceremony programs: Guests glance at them and leave them on the chair
 - Menu cards: Unless you have multiple options, guests don't need to read the menu
-- Table numbers: Use a [seating chart display](/content/wedding-guest-list-template) at the entrance instead of individual table cards
+- Table numbers: Use a seating chart display at the entrance instead of individual table cards
 
 ## Music & Entertainment Savings: $500-$2,000
 
@@ -318,21 +318,21 @@ The antidote is tracking. When every dollar is visible, you make better decision
 
 ### Wedding Budget Spreadsheet ($17)
 
-Our [budget spreadsheet](/content/wedding-budget-template-2026) includes 80+ line items across every category, including the hidden costs (service charges, gratuities, overtime) that cause budget surprises. It automatically calculates your remaining budget as you enter actual costs, so you always know exactly where you stand.
+Our budget spreadsheet includes 80+ line items across every category, including the hidden costs (service charges, gratuities, overtime) that cause budget surprises. It automatically calculates your remaining budget as you enter actual costs, so you always know exactly where you stand.
 
 For couples focused primarily on staying on budget, this is the most cost-effective planning tool available.
 
 ### Wedding Planning Tracker ($27)
 
-The [planning tracker](/content/best-wedding-planning-spreadsheet) includes everything in the budget spreadsheet plus guest list management, vendor tracking, a 12-month planning timeline, and a day-of schedule. If you want one tool that covers all aspects of planning, this is it.
+The planning tracker includes everything in the budget spreadsheet plus guest list management, vendor tracking, a 12-month planning timeline, and a day-of schedule. If you want one tool that covers all aspects of planning, this is it.
 
 ### Guest List + Seating Kit ($9)
 
-Your [guest count directly drives your budget](/content/wedding-guest-list-template). This kit helps you manage RSVPs, track meal preferences, and plan seating for up to 300 guests. At $9, it costs less than a single wedding favor per guest.
+Your guest count directly drives your budget. This kit helps you manage RSVPs, track meal preferences, and plan seating for up to 300 guests. At $9, it costs less than a single wedding favor per guest.
 
 ### Notion Wedding Template ($37)
 
-For couples who love [Notion](/content/notion-wedding-planner-template), our template provides a complete planning workspace where budget, guests, vendors, and timeline are all connected. It's the most comprehensive option for couples who want a visual, project-management style approach.
+For couples who love Notion, our template provides a complete planning workspace where budget, guests, vendors, and timeline are all connected. It's the most comprehensive option for couples who want a visual, project-management style approach.
 
 **Bottom line**: These tools cost $9-$37. A single prevented budget mistake saves 10x that amount. The best investment you can make in your wedding budget is a tool that helps you stick to it.
 
@@ -431,7 +431,7 @@ For couples who love [Notion](/content/notion-wedding-planner-template), our tem
 
 ### Myth: "You need a wedding planner."
 
-**Reality**: A full-service wedding planner costs $2,000-$5,000. A day-of coordinator costs $800-$2,000. For budget weddings, a comprehensive [planning spreadsheet ($27)](/content/best-wedding-planning-spreadsheet) or [Notion template ($37)](/content/notion-wedding-planner-template) can replace the organizational function of a planner. Consider investing in a day-of coordinator only — they ensure the event runs smoothly without the cost of full-service planning.
+**Reality**: A full-service wedding planner costs $2,000-$5,000. A day-of coordinator costs $800-$2,000. For budget weddings, a comprehensive planning spreadsheet ($27) or Notion template ($37) can replace the organizational function of a planner. Consider investing in a day-of coordinator only — they ensure the event runs smoothly without the cost of full-service planning.
 
 ---
 
@@ -439,10 +439,10 @@ For couples who love [Notion](/content/notion-wedding-planner-template), our tem
 
 > **Our Wedding Planning Bundle**
 >
-> - **Wedding Budget Spreadsheet ($17)** — 80+ line items, automatic calculations, hidden cost reminders. [Learn more →](/content/wedding-budget-template-2026)
-> - **Wedding Planning Tracker ($27)** — Budget + guest list + vendor tracking + timeline. [Learn more →](/content/best-wedding-planning-spreadsheet)
-> - **Notion Wedding Template ($37)** — Complete planning workspace in Notion. [Learn more →](/content/notion-wedding-planner-template)
-> - **Guest List + Seating Kit ($9)** — Track up to 300 guests with RSVP and seating management. [Learn more →](/content/wedding-guest-list-template)
+> - **Wedding Budget Spreadsheet ($17)** — 80+ line items, automatic calculations, hidden cost reminders. Learn more →
+> - **Wedding Planning Tracker ($27)** — Budget + guest list + vendor tracking + timeline. Learn more →
+> - **Notion Wedding Template ($37)** — Complete planning workspace in Notion. Learn more →
+> - **Guest List + Seating Kit ($9)** — Track up to 300 guests with RSVP and seating management. Learn more →
 >
 > Every dollar you spend on planning tools saves you $10+ in prevented mistakes.
 
@@ -456,7 +456,7 @@ January and February are typically the cheapest months for weddings in most U.S.
 
 ### How much can you realistically save by cutting the guest list?
 
-Each guest costs approximately $150-$300 when you factor in food, drinks, rental space, favors, and a proportional share of staffing costs. Cutting 25 guests saves $3,750-$7,500. Cutting 50 guests saves $7,500-$15,000. Guest list reduction is consistently the single most impactful budget decision a couple can make. Use our [guest list template](/content/wedding-guest-list-template) to manage your list strategically.
+Each guest costs approximately $150-$300 when you factor in food, drinks, rental space, favors, and a proportional share of staffing costs. Cutting 25 guests saves $3,750-$7,500. Cutting 50 guests saves $7,500-$15,000. Guest list reduction is consistently the single most impactful budget decision a couple can make. Use our guest list template to manage your list strategically.
 
 ### Is it cheaper to have a wedding at home?
 
@@ -472,11 +472,11 @@ No. Financial experts overwhelmingly advise against starting a marriage with wed
 
 ### What can I skip entirely at my wedding?
 
-Items most couples can skip without anyone noticing: wedding favors (most end up left behind), ceremony programs, a guest book (or use a creative free alternative like a polaroid board), a limo or special transportation (Uber exists), a videographer (if photography is your priority), a wedding planner (use a [planning template](/content/best-wedding-planning-spreadsheet) instead), and a formal cake (a dessert bar or simple sheet cake works just as well).
+Items most couples can skip without anyone noticing: wedding favors (most end up left behind), ceremony programs, a guest book (or use a creative free alternative like a polaroid board), a limo or special transportation (Uber exists), a videographer (if photography is your priority), a wedding planner (use a planning template instead), and a formal cake (a dessert bar or simple sheet cake works just as well).
 
 ### How far in advance should I start planning a budget wedding?
 
-Start planning 10-14 months before your desired wedding date. Budget weddings often require more lead time, not less, because you need time to: compare vendor quotes, wait for sales, find off-peak availability, coordinate DIY projects, and make strategic decisions rather than last-minute panic choices. Use a planning [timeline tracker](/content/best-wedding-planning-spreadsheet) to stay organized across the full planning period.
+Start planning 10-14 months before your desired wedding date. Budget weddings often require more lead time, not less, because you need time to: compare vendor quotes, wait for sales, find off-peak availability, coordinate DIY projects, and make strategic decisions rather than last-minute panic choices. Use a planning timeline tracker to stay organized across the full planning period.
 
 ## Sources and Methodology
 
@@ -487,3 +487,15 @@ Start planning 10-14 months before your desired wedding date. Budget weddings of
 - **Financial advice**: Wedding debt statistics from the National Foundation for Credit Counseling and the Institute for Divorce Financial Analysts
 - **Guest cost calculations**: Derived from catering industry per-person averages inclusive of food, beverage, staffing, and rental allocations
 - **All prices**: Reflect 2026 U.S. market averages. Costs vary significantly by region, with coastal and major metro areas typically 30-50% above national averages.
+
+
+## Visual Guide Gallery
+
+![how to plan a wedding on a budget visual 1](/images/articles/best-wedding-photographers-how-to-find-book-candid-ceremony.jpg)
+![how to plan a wedding on a budget visual 2](/images/articles/best-wedding-photographers-how-to-find-book-consultation-review.jpg)
+![how to plan a wedding on a budget visual 3](/images/articles/best-wedding-photographers-how-to-find-book-contract-flatlay.jpg)
+![how to plan a wedding on a budget visual 4](/images/articles/best-wedding-photographers-how-to-find-book-cost-infographic.jpg)
+![how to plan a wedding on a budget visual 5](/images/articles/best-wedding-photographers-how-to-find-book-fine-art-portrait.jpg)
+![how to plan a wedding on a budget visual 6](/images/articles/best-wedding-photographers-how-to-find-book-golden-hour-couple.jpg)
+![how to plan a wedding on a budget visual 7](/images/articles/best-wedding-photographers-how-to-find-book-ring-detail.jpg)
+![how to plan a wedding on a budget visual 8](/images/articles/best-wedding-photographers-how-to-find-book-venue-scouting.jpg)

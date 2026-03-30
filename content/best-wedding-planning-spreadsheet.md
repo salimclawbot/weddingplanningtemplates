@@ -475,3 +475,12 @@ Start within the first week of getting engaged. Even if you do not have quotes, 
 5. Airtable. "Wedding Planning Template." Airtable.com. Accessed March 2026.
 6. r/weddingplanning. "Community Spreadsheet Resources and Templates." Reddit.com. Accessed March 2026.
 7. Zola. "Free Wedding Planning Tools and Checklist." Zola.com. Accessed March 2026.
+
+
+## Visual Guide Gallery
+
+![best wedding planning spreadsheet visual 1](/images/articles/best-wedding-planning-apps-2026-comparison-infographic.jpg)
+![best wedding planning spreadsheet visual 2](/images/articles/best-wedding-planning-apps-2026-countdown.jpg)
+![best wedding planning spreadsheet visual 3](/images/articles/best-wedding-planning-apps-2026-features-infographic.jpg)
+![best wedding planning spreadsheet visual 4](/images/articles/best-wedding-planning-apps-2026-hero.jpg)
+![best wedding planning spreadsheet visual 5](/images/articles/best-wedding-planning-apps-2026-product-1.jpg)

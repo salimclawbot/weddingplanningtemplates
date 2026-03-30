@@ -92,7 +92,7 @@ Consistency is everything in wedding planning. The best system is the one you ac
 
 ### When Spreadsheets Still Win
 
-To be fair, spreadsheets do have advantages in certain areas. They are faster for raw number crunching with complex formulas. They work fully offline without any internet connection. They export cleanly to PDF and print well. And there is zero learning curve if you already live in Excel or Google Sheets. If budget tracking is your single biggest concern and you do not need relational data, a dedicated [wedding budget spreadsheet](/content/wedding-budget-template-2026) might be the simpler choice.
+To be fair, spreadsheets do have advantages in certain areas. They are faster for raw number crunching with complex formulas. They work fully offline without any internet connection. They export cleanly to PDF and print well. And there is zero learning curve if you already live in Excel or Google Sheets. If budget tracking is your single biggest concern and you do not need relational data, a dedicated wedding budget spreadsheet might be the simpler choice.
 
 ## What to Include in Your Notion Wedding Workspace
 
@@ -122,7 +122,7 @@ Your guest list database needs multiple views to be useful in different contexts
 - **Missing addresses**: A filtered view showing guests whose mailing address field is empty — essential before invitations go out
 - **Gift tracking**: A filtered view showing received gifts alongside thank-you note status
 
-For a deeper dive into guest list management strategies, see our [wedding guest list template guide](/content/wedding-guest-list-template).
+For a deeper dive into guest list management strategies, see our wedding guest list template guide.
 
 ### 2. Vendor Hub
 
@@ -242,7 +242,7 @@ If you purchased or found a template, open the template link and click "Duplicat
 
 ### Step 3: Set Your Wedding Date and Total Budget
 
-Open the dashboard and update two critical fields: your wedding date (which drives the countdown timer and task timeline calculations) and your total budget (which becomes the baseline for all budget tracking). If you are unsure about your budget, our [wedding budget breakdown guide](/content/wedding-budget-template-2026) walks through how to set a realistic number based on your guest count and region.
+Open the dashboard and update two critical fields: your wedding date (which drives the countdown timer and task timeline calculations) and your total budget (which becomes the baseline for all budget tracking). If you are unsure about your budget, our wedding budget breakdown guide walks through how to set a realistic number based on your guest count and region.
 
 ### Step 4: Customize the Budget Categories
 
@@ -250,7 +250,7 @@ Review the pre-built budget categories and line items. Remove anything that does
 
 ### Step 5: Import or Build Your Guest List
 
-If you already have a guest list in a spreadsheet, export it as a CSV file and import it into Notion's guest list database using the "Merge with CSV" option. Map each column to the correct property. If you are starting from scratch, begin entering your must-invite guests first and expand from there. Our [guest list template guide](/content/wedding-guest-list-template) has a systematic approach for building your list without forgetting anyone.
+If you already have a guest list in a spreadsheet, export it as a CSV file and import it into Notion's guest list database using the "Merge with CSV" option. Map each column to the correct property. If you are starting from scratch, begin entering your must-invite guests first and expand from there. Our guest list template guide has a systematic approach for building your list without forgetting anyone.
 
 ### Step 6: Adjust the Planning Timeline
 
@@ -326,7 +326,7 @@ Your workspace is yours permanently. After the wedding, it becomes a useful refe
 
 ### Can I use the Notion template offline?
 
-Notion requires an internet connection for real-time syncing, but the mobile app does cache recently viewed pages for limited offline access. If you are visiting venues in rural areas with poor connectivity, you can open the relevant pages beforehand so they are cached on your device. For truly offline-dependent workflows, a downloadable [wedding planning spreadsheet](/content/best-wedding-planning-spreadsheet) is a better choice since it works fully without internet.
+Notion requires an internet connection for real-time syncing, but the mobile app does cache recently viewed pages for limited offline access. If you are visiting venues in rural areas with poor connectivity, you can open the relevant pages beforehand so they are cached on your device. For truly offline-dependent workflows, a downloadable wedding planning spreadsheet is a better choice since it works fully without internet.
 
 ## Sources
 
@@ -337,3 +337,7 @@ Notion requires an internet connection for real-time syncing, but the mobile app
 - **User feedback**: Template features refined based on direct feedback from 50+ couples who used early versions during their actual wedding planning.
 - **Pricing**: All prices reflect one-time purchases as of March 2026. Notion's free personal plan is sufficient for all template functionality — no paid Notion subscription required.
 - **Industry data**: Average wedding costs and vendor category breakdowns referenced from The Knot 2025 Real Weddings Study and WeddingWire's annual survey data.
+
+
+## Visual Guide Gallery
+

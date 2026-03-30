@@ -41,7 +41,7 @@ Couples who follow a written planning timeline report significantly lower stress
 
 This guide is built for a 12-month engagement, but you can compress or expand the timeline based on your situation. Getting married in six months? Double up on the early phases. Have 18 months? Spread out the vendor research and enjoy the process.
 
-If you are still in the early stages and wondering [how to set a realistic wedding budget before you start booking](/wedding-budget-guide), start there first—your budget shapes every decision on this checklist.
+If you are still in the early stages and wondering [how to set a realistic wedding budget before you start booking](/wedding-budget-template), start there first—your budget shapes every decision on this checklist.
 
 ---
 
@@ -166,7 +166,7 @@ This is where the pace accelerates. Everything you have planned starts becoming 
 - [ ] **Write thank-you notes** for any pre-wedding gifts as they arrive. Do not let these pile up.
 - [ ] **Finalize the rehearsal dinner** details—timing, toasts, and logistics.
 
-If you are managing multiple vendor relationships, check out our guide on [how to communicate effectively with wedding vendors](/wedding-vendor-communication-tips) so nothing gets lost in translation during these final weeks.
+If you are managing multiple vendor relationships, check out our guide on how to communicate effectively with wedding vendors so nothing gets lost in translation during these final weeks.
 
 ### Month 1
 
@@ -401,3 +401,12 @@ Yes. Wedding insurance policies start at approximately $75 for basic liability a
   ]
 }
 ```
+
+
+## Visual Guide Gallery
+
+![wedding planning timeline checklist visual 1](/images/articles/best-wedding-planning-apps-2026-comparison-infographic.jpg)
+![wedding planning timeline checklist visual 2](/images/articles/best-wedding-planning-apps-2026-countdown.jpg)
+![wedding planning timeline checklist visual 3](/images/articles/best-wedding-planning-apps-2026-features-infographic.jpg)
+![wedding planning timeline checklist visual 4](/images/articles/best-wedding-planning-apps-2026-hero.jpg)
+![wedding planning timeline checklist visual 5](/images/articles/best-wedding-planning-apps-2026-product-1.jpg)

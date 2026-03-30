@@ -176,7 +176,7 @@ Below is every cost category you should include in your wedding budget template.
 
 | Line Item | Average Cost | Notes |
 |---|---|---|
-| Wedding planner (full) | $2,000-$5,000 | Or use a [planning spreadsheet](/content/best-wedding-planning-spreadsheet) |
+| Wedding planner (full) | $2,000-$5,000 | Or use a planning spreadsheet |
 | Day-of coordinator | $800-$2,000 | Strongly recommended |
 | Officiant | $200-$600 | May be free if a friend/family |
 | Marriage license | $30-$100 | Varies by state |
@@ -288,7 +288,7 @@ Your guest count is the single biggest driver of your total cost. Here's how bud
 
 Per-guest costs decrease slightly at scale because fixed costs (photographer, DJ, officiant, dress) are spread across more people. However, variable costs (food, drinks, favors, rentals) increase linearly with headcount.
 
-For a detailed guest list management strategy, see our [guest list template guide](/content/wedding-guest-list-template).
+For a detailed guest list management strategy, see our guest list template guide.
 
 ![A pie chart showing typical wedding budget allocation percentages by category](images/wedding-budget-allocation-pie-chart.jpg)
 
@@ -304,9 +304,9 @@ For a detailed guest list management strategy, see our [guest list template guid
 
 - **Wedding Budget Spreadsheet ($17)**: Our purpose-built budget template with 80+ line items, automatic calculations, hidden cost reminders, estimated-vs-actual tracking, and visual spending charts. Works in Google Sheets and Excel. This is the template that matches the complete breakdown above — every category and line item is pre-built and ready to customize.
 - **Etsy budget templates ($5-$15)**: Variable quality. Some are well-designed; others have formula errors or missing categories. Always check reviews.
-- **Full planning suites ($25-$40)**: If you need more than just budget tracking, our [Wedding Planning Tracker ($27)](/content/best-wedding-planning-spreadsheet) or [Notion Wedding Template ($37)](/content/notion-wedding-planner-template) include budgeting plus guest lists, vendor management, and timelines.
+- **Full planning suites ($25-$40)**: If you need more than just budget tracking, our Wedding Planning Tracker ($27) or Notion Wedding Template ($37) include budgeting plus guest lists, vendor management, and timelines.
 
-For a complete comparison of planning spreadsheets, read our [wedding planning spreadsheet comparison guide](/content/best-wedding-planning-spreadsheet).
+For a complete comparison of planning spreadsheets, read our wedding planning spreadsheet comparison guide.
 
 ## How to Track Your Wedding Budget Effectively
 
@@ -328,7 +328,7 @@ Set a monthly calendar reminder to review your full budget. Look at:
 
 ### Prioritize Ruthlessly
 
-Decide early which 2-3 categories matter most to you and allocate more budget there. If photography is your top priority, allocate 15% instead of 10%. If you don't care about flowers, dial them back to 5%. If you're working with a tight budget, our guide on [planning a wedding on a budget](/content/how-to-plan-a-wedding-on-a-budget) has specific strategies for every category.
+Decide early which 2-3 categories matter most to you and allocate more budget there. If photography is your top priority, allocate 15% instead of 10%. If you don't care about flowers, dial them back to 5%. If you're working with a tight budget, our guide on planning a wedding on a budget has specific strategies for every category.
 
 ### Track Deposits and Payment Schedules
 
@@ -366,7 +366,7 @@ Financial planners generally recommend spending no more than you can repay withi
 
 ### Can I plan a wedding for under $10,000?
 
-Yes, though it requires significant tradeoffs. Weddings under $10,000 typically involve fewer than 50 guests, a non-traditional venue (backyard, park, restaurant private dining), limited or no floral arrangements, a playlist instead of a DJ, and simplified catering. It's absolutely possible to have a beautiful, meaningful wedding at this budget — it just requires more creativity and firm boundaries. Our [budget wedding planning guide](/content/how-to-plan-a-wedding-on-a-budget) covers specific strategies for every price point.
+Yes, though it requires significant tradeoffs. Weddings under $10,000 typically involve fewer than 50 guests, a non-traditional venue (backyard, park, restaurant private dining), limited or no floral arrangements, a playlist instead of a DJ, and simplified catering. It's absolutely possible to have a beautiful, meaningful wedding at this budget — it just requires more creativity and firm boundaries. Our budget wedding planning guide covers specific strategies for every price point.
 
 ### What's the easiest way to cut $5,000 from a wedding budget?
 
@@ -374,7 +374,7 @@ The three highest-impact cuts: (1) Reduce guest count by 20-30 people (saves $3,
 
 ### Should I use a wedding budget app or a spreadsheet?
 
-Spreadsheets offer more flexibility, data ownership, and detailed tracking than most wedding budget apps. Apps like Zola and The Knot are convenient but often push vendor recommendations and limit your ability to customize categories or export data. A spreadsheet lets you add custom line items, build formulas specific to your wedding, and keep complete control of your financial data. For couples who prefer a more visual workspace, our [Notion wedding template](/content/notion-wedding-planner-template) combines the flexibility of a spreadsheet with the polish of an app.
+Spreadsheets offer more flexibility, data ownership, and detailed tracking than most wedding budget apps. Apps like Zola and The Knot are convenient but often push vendor recommendations and limit your ability to customize categories or export data. A spreadsheet lets you add custom line items, build formulas specific to your wedding, and keep complete control of your financial data. For couples who prefer a more visual workspace, our Notion wedding template combines the flexibility of a spreadsheet with the polish of an app.
 
 ## Sources and Methodology
 
@@ -385,3 +385,7 @@ Spreadsheets offer more flexibility, data ownership, and detailed tracking than 
 - **Hidden cost estimates**: Based on Sophie Clarke's direct experience planning 200+ weddings across budget ranges of $8,000-$120,000, cross-referenced with vendor contract analysis
 - **Budget allocation percentages**: Derived from analysis of real wedding budgets, weighted by guest count and region, validated against industry planning standards
 - **All prices**: Reflect 2026 U.S. market conditions. Costs vary significantly by region, season, and vendor experience level.
+
+
+## Visual Guide Gallery
+

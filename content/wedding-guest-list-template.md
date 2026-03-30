@@ -125,7 +125,7 @@ Your template needs a dedicated seating section — not just a "table number" co
 - Group guests by relationship (family, college friends, work)
 - Flag conflicts (divorced parents, exes, feuding relatives)
 
-For detailed seating chart strategies, including table layout options and printable templates, see our [seating chart guide](/content/wedding-seating-chart-template).
+For detailed seating chart strategies, including table layout options and printable templates, see our seating chart guide.
 
 ### 6. Gift and Thank-You Tracking
 
@@ -369,7 +369,7 @@ Track up to 300 guests, manage RSVPs, plan seating, auto-calculate meal counts, 
 
 ### How many guests should I invite to my wedding?
 
-Invite only the number you can comfortably afford and accommodate. Calculate your per-guest cost by dividing your total reception budget by the number of guests. Most couples land between 100 and 200 guests. Factor in a 15-20% decline rate — if you invite 200, expect 160-170 to actually attend. Reducing the guest list is the single most effective way to lower your overall wedding cost. For budget strategies by guest count, see our [wedding budget guide](/content/wedding-budget-template-2026).
+Invite only the number you can comfortably afford and accommodate. Calculate your per-guest cost by dividing your total reception budget by the number of guests. Most couples land between 100 and 200 guests. Factor in a 15-20% decline rate — if you invite 200, expect 160-170 to actually attend. Reducing the guest list is the single most effective way to lower your overall wedding cost. For budget strategies by guest count, see our wedding budget guide.
 
 ### What's the best free wedding guest list template?
 
@@ -396,3 +396,15 @@ Send a friendly text or email one week after the deadline: "Hi! We're finalizing
 - **Template feature comparison**: Features verified by the author through hands-on testing of each platform as of February 2026
 - **Dietary management guidelines**: Best practices from the International Association of Wedding Planners and guidance from professional catering associations
 - **All prices**: Accurate as of March 2026
+
+
+## Visual Guide Gallery
+
+![wedding guest list template visual 1](/images/articles/wedding-guest-list-video-thumb.jpg)
+![wedding guest list template visual 2](/images/articles/wedding-guest-list-video-thumb.jpg)
+![wedding guest list template visual 3](/images/articles/wedding-guest-list-video-thumb.jpg)
+![wedding guest list template visual 4](/images/articles/wedding-guest-list-video-thumb.jpg)
+![wedding guest list template visual 5](/images/articles/wedding-guest-list-video-thumb.jpg)
+![wedding guest list template visual 6](/images/articles/wedding-guest-list-video-thumb.jpg)
+![wedding guest list template visual 7](/images/articles/wedding-guest-list-video-thumb.jpg)
+![wedding guest list template visual 8](/images/articles/wedding-guest-list-video-thumb.jpg)

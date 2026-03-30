@@ -310,3 +310,7 @@ Standard round or rectangular tables of 8-10. The full system outlined in this g
 **Combination:** Alphabetical printed board for efficiency, escort cards for aesthetic. Guests find their table on the board, then collect their escort card as a keepsake.
 
 The seating chart you create over several hours of careful planning translates into 300 guests smoothly finding their seats in under 10 minutes. That invisible efficiency is one of the hallmarks of a well-planned wedding.
+
+
+## Visual Guide Gallery
+

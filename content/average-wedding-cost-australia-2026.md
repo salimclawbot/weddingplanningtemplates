@@ -156,7 +156,7 @@ Photography is the one vendor category where experienced Australian wedding plan
 | Mid-range | $3,000–$5,000 | 8–10 hrs, second shooter, 500+ images, online gallery |
 | Premium | $5,000–$8,000+ | Full day, second shooter, engagement session, album, prints |
 
-If you are still comparing options, our roundup of the [best wedding planning apps](/best-wedding-planning-apps) includes tools with built-in vendor comparison features that make shortlisting photographers much faster.
+If you are still comparing options, our roundup of the [best wedding planning apps](/best-wedding-planning-apps-2026) includes tools with built-in vendor comparison features that make shortlisting photographers much faster.
 
 ### Flowers, Music, Attire & Everything Else
 
@@ -361,7 +361,7 @@ Pair this with our downloadable [wedding budget template](/wedding-budget-templa
 
 </div>
 
-For a deeper comparison of planning platforms, see our full guide to the [best wedding planning apps](/best-wedding-planning-apps).
+For a deeper comparison of planning platforms, see our full guide to the [best wedding planning apps](/best-wedding-planning-apps-2026).
 
 ---
 
