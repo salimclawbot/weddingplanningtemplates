@@ -11,7 +11,13 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 
 **Wedding seating charts cause more planning stress than almost any other task. Not because they're complicated — because the social dynamics are. This guide gives you a systematic approach to seating that manages family politics, keeps difficult personalities separated, and ensures every guest feels considered.**
 
+![Wedding Seating Chart Template 2026: Free Guide: hero image for this section](/images/articles/wedding-seating-chart-template-hero.jpg)
+*Hero visual for this section*
+
 ## Table of Contents
+![Wedding Seating Chart Template 2026: Free Guide: comparison image for Table of Contents](/images/articles/wedding-seating-chart-template-comparison.jpg)
+*Comparison visual for Table of Contents*
+
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;">
   <iframe 
@@ -31,6 +37,9 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 - [Sources](#sources)
 
 ## Seating Chart Tools Compared
+![Wedding Seating Chart Template 2026: Free Guide: infographic image for Seating Chart Tools Compared](/images/articles/wedding-seating-chart-template-infographic.jpg)
+*Infographic visual for Seating Chart Tools Compared*
+
 
 | Tool | Best For | Price | Key Feature |
 |------|----------|-------|-------------|
@@ -44,6 +53,9 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 **For most couples:** Google Sheets for planning logistics (easily updated), then export to Canva for the display chart at the venue. This two-tool approach costs nothing and handles every seating scenario.
 
 ## The Table Assignment System
+![Wedding Seating Chart Template 2026: Free Guide: setup image for The Table Assignment System](/images/articles/wedding-seating-chart-template-setup.jpg)
+*Setup visual for The Table Assignment System*
+
 
 ### Step 1: Group Guests Before Assigning Tables
 
@@ -76,6 +88,9 @@ Assign entire groups to tables — mixing unrelated groups creates awkward stran
 Standard banquet tables seat 8-10 guests. Round tables seat 8 more intimately than rectangular. For groups over 10, split across two adjacent tables — never force 12 onto a 10-person table.
 
 ## Handling Difficult Family Dynamics
+![Wedding Seating Chart Template 2026: Free Guide: detail image for Handling Difficult Family Dynamics](/images/articles/wedding-seating-chart-template-detail.jpg)
+*Detail visual for Handling Difficult Family Dynamics*
+
 
 ### Divorced Parents
 
@@ -94,6 +109,9 @@ Former partners of either bride or groom attending the wedding (as friends) shou
 Guests attending alone or with unfamiliar plus-ones need seating with the most socially inclusive, outgoing guests. Identify 2-3 tables with "anchors" — guests who naturally draw people into conversation — and seat solo guests there.
 
 ## Head Table Options
+![Wedding Seating Chart Template 2026: Free Guide: lifestyle image for Head Table Options](/images/articles/wedding-seating-chart-template-lifestyle.jpg)
+*Lifestyle visual for Head Table Options*
+
 
 ### Option 1: Traditional Head Table (Rectangular, Couple + Wedding Party)
 
@@ -130,6 +148,9 @@ Guests attending alone or with unfamiliar plus-ones need seating with the most s
 **Advantage:** Couple spends time with every guest instead of being stationary
 
 ## Children at Weddings: Seating Strategy
+![Wedding Seating Chart Template 2026: Free Guide: product lineup image for Children at Weddings: Seating Strategy](/images/articles/wedding-seating-chart-template-product-lineup.jpg)
+*Product Lineup visual for Children at Weddings: Seating Strategy*
+
 
 ### The Kids' Table
 
@@ -150,6 +171,9 @@ For weddings with 10+ children over age 4, a dedicated kids' table with colourin
 - Name cards (children love having their own place card)
 
 ## The Final Seating Chart Checklist
+![Wedding Seating Chart Template 2026: Free Guide: tips image for The Final Seating Chart Checklist](/images/articles/wedding-seating-chart-template-tips.jpg)
+*Tips visual for The Final Seating Chart Checklist*
+
 
 Before finalising:
 

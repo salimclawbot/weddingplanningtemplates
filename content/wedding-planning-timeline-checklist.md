@@ -12,6 +12,10 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 
 # Wedding Planning Timeline: The Complete 12-Month Checklist (2026 Guide)
 
+<video autoplay muted loop playsinline poster="/images/articles/wedding-planning-timeline-checklist-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/wedding-planning-timeline-checklist-demo.mp4" type="video/mp4">
+</video>
+
 **Planning a wedding in 12 months means tackling roughly 100 individual tasks across venues, vendors, attire, décor, and logistics. This month-by-month wedding planning timeline breaks every task into manageable steps so nothing falls through the cracks—whether you just got engaged last weekend or you are already deep into vendor research with a set date.**
 
 

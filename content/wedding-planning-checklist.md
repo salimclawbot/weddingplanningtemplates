@@ -1,15 +1,26 @@
 ---
 title: 'Ultimate Wedding Planning Checklist 2026 (Free)'
 meta_description: 'Complete wedding planning checklist for 2026: month-by-month timeline from 12 months out to wedding day, vendor contacts, and nothing-forgotten guide →'
+faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should be prioritized first in wedding planning?","acceptedAnswer":{"@type":"Answer","text":"Start with total budget, guest count target, and preferred date window before booking vendors. These decisions guide nearly every other planning choice."}},{"@type":"Question","name":"How can couples keep wedding costs under control?","acceptedAnswer":{"@type":"Answer","text":"Use a category based budget with spending caps and a contingency line for surprises. Review commitments weekly so small overruns do not become major gaps."}},{"@type":"Question","name":"What is the best way to trim a guest list without conflict?","acceptedAnswer":{"@type":"Answer","text":"Set clear criteria together, such as relationship closeness and household limits, then apply rules consistently. Communicating early and kindly reduces misunderstandings."}},{"@type":"Question","name":"How do catering options affect total wedding value?","acceptedAnswer":{"@type":"Answer","text":"Catering style changes both per guest cost and guest experience, including service and waste levels. Compare package details carefully rather than headline price alone."}},{"@type":"Question","name":"Why is a wedding checklist important?","acceptedAnswer":{"@type":"Answer","text":"A structured checklist keeps deadlines visible and reduces last minute stress. It also helps coordinate tasks across venues, vendors, and family support."}}]}'
 ---
 
 # Ultimate Wedding Planning Checklist 2026: Nothing-Forgotten Timeline
+
+<video autoplay muted loop playsinline poster="/images/articles/wedding-planning-checklist-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/wedding-planning-checklist-demo.mp4" type="video/mp4">
+</video>
 
 **By Sophie Clarke, Certified Wedding Planner** · Last updated March 10, 2026
 
 **The average couple spends 200+ hours planning their wedding. The ones who enjoy the process have one thing in common: a complete checklist they trust. This 12-month timeline covers every decision, booking, and detail — in the order they need to happen.**
 
+![Ultimate Wedding Planning Checklist 2026 (Free): hero image for this section](/images/articles/wedding-planning-checklist-hero.jpg)
+*Hero visual for this section*
+
 ## Table of Contents
+![Ultimate Wedding Planning Checklist 2026 (Free): comparison image for Table of Contents](/images/articles/wedding-planning-checklist-comparison.jpg)
+*Comparison visual for Table of Contents*
+
 - [12 Months Out](#12-months)
 - [9 Months Out](#9-months)
 - [6 Months Out](#6-months)
@@ -24,6 +35,9 @@ meta_description: 'Complete wedding planning checklist for 2026: month-by-month 
 - [Sources](#sources)
 
 ## 12 Months Before the Wedding {#12-months}
+![Ultimate Wedding Planning Checklist 2026 (Free): infographic image for 12 Months Before the Wedding {#12-months}](/images/articles/wedding-planning-checklist-infographic.jpg)
+*Infographic visual for 12 Months Before the Wedding {#12-months}*
+
 
 | Task | Priority | Notes |
 |------|----------|-------|
@@ -53,6 +67,9 @@ meta_description: 'Complete wedding planning checklist for 2026: month-by-month 
 | Contingency | 10% | $5,000 | $3,000 |
 
 ## 9 Months Before the Wedding {#9-months}
+![Ultimate Wedding Planning Checklist 2026 (Free): setup image for 9 Months Before the Wedding {#9-months}](/images/articles/wedding-planning-checklist-setup.jpg)
+*Setup visual for 9 Months Before the Wedding {#9-months}*
+
 
 | Task | Priority | Notes |
 |------|----------|-------|
@@ -69,6 +86,9 @@ meta_description: 'Complete wedding planning checklist for 2026: month-by-month 
 | Research hair and makeup artists | Medium | |
 
 ## 6 Months Before the Wedding {#6-months}
+![Ultimate Wedding Planning Checklist 2026 (Free): detail image for 6 Months Before the Wedding {#6-months}](/images/articles/wedding-planning-checklist-detail.jpg)
+*Detail visual for 6 Months Before the Wedding {#6-months}*
+
 
 | Task | Priority | Notes |
 |------|----------|-------|
@@ -84,6 +104,9 @@ meta_description: 'Complete wedding planning checklist for 2026: month-by-month 
 | Book accommodation block for guests | Medium | Negotiate room block rate |
 
 ## 4 Months Before the Wedding {#4-months}
+![Ultimate Wedding Planning Checklist 2026 (Free): lifestyle image for 4 Months Before the Wedding {#4-months}](/images/articles/wedding-planning-checklist-lifestyle.jpg)
+*Lifestyle visual for 4 Months Before the Wedding {#4-months}*
+
 
 | Task | Priority | Notes |
 |------|----------|-------|
@@ -98,6 +121,9 @@ meta_description: 'Complete wedding planning checklist for 2026: month-by-month 
 | Create day-of timeline | High | Share with all vendors |
 
 ## 2 Months Before the Wedding {#2-months}
+![Ultimate Wedding Planning Checklist 2026 (Free): product lineup image for 2 Months Before the Wedding {#2-months}](/images/articles/wedding-planning-checklist-product-lineup.jpg)
+*Product Lineup visual for 2 Months Before the Wedding {#2-months}*
+
 
 | Task | Priority | Notes |
 |------|----------|-------|
@@ -113,6 +139,9 @@ meta_description: 'Complete wedding planning checklist for 2026: month-by-month 
 | Final dress fitting | Critical | |
 
 ## 1 Month Before the Wedding {#1-month}
+![Ultimate Wedding Planning Checklist 2026 (Free): tips image for 1 Month Before the Wedding {#1-month}](/images/articles/wedding-planning-checklist-tips.jpg)
+*Tips visual for 1 Month Before the Wedding {#1-month}*
+
 
 | Task | Priority | Notes |
 |------|----------|-------|

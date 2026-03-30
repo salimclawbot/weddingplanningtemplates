@@ -5,9 +5,14 @@ date: "2026-03-28"
 author: "Wedding Planner Elizabeth Clark"
 description: "Wedding Guest List Management: How to Trim It Down. Expert guide with detailed analysis."
 tags: ["guide", "2026"]
+faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should be prioritized first in wedding planning?","acceptedAnswer":{"@type":"Answer","text":"Start with total budget, guest count target, and preferred date window before booking vendors. These decisions guide nearly every other planning choice."}},{"@type":"Question","name":"How can couples keep wedding costs under control?","acceptedAnswer":{"@type":"Answer","text":"Use a category based budget with spending caps and a contingency line for surprises. Review commitments weekly so small overruns do not become major gaps."}},{"@type":"Question","name":"What is the best way to trim a guest list without conflict?","acceptedAnswer":{"@type":"Answer","text":"Set clear criteria together, such as relationship closeness and household limits, then apply rules consistently. Communicating early and kindly reduces misunderstandings."}},{"@type":"Question","name":"How do catering options affect total wedding value?","acceptedAnswer":{"@type":"Answer","text":"Catering style changes both per guest cost and guest experience, including service and waste levels. Compare package details carefully rather than headline price alone."}},{"@type":"Question","name":"Why is a wedding checklist important?","acceptedAnswer":{"@type":"Answer","text":"A structured checklist keeps deadlines visible and reduces last minute stress. It also helps coordinate tasks across venues, vendors, and family support."}}]}'
 ---
 
 # Wedding Guest List Management: How to Trim It Down
+
+<video autoplay muted loop playsinline poster="/images/articles/wedding-guest-list-trim-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/wedding-guest-list-trim-demo.mp4" type="video/mp4">
+</video>
 
 **Featured Snippet:**
 Expert guide covering wedding guest list trim. Comprehensive analysis, evidence-based recommendations, and actionable advice.

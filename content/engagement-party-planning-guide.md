@@ -18,7 +18,13 @@ image: "/images/articles/engagement-party-planning-guide-hero.jpg"
 
 ---
 
+![Engagement Party Planning Guide: How to Throw the Perfect Celebration in 2026: hero image for this section](/images/articles/engagement-party-planning-guide-hero.jpg)
+*Hero visual for this section*
+
 ## Table of Contents
+![Engagement Party Planning Guide: How to Throw the Perfect Celebration in 2026: comparison image for Table of Contents](/images/articles/engagement-party-planning-guide-comparison.jpg)
+*Comparison visual for Table of Contents*
+
 
 - [What Is an Engagement Party and Who Hosts It?](#what-is-an-engagement-party-and-who-hosts-it)
 - [Setting Your Engagement Party Budget](#setting-your-engagement-party-budget)
@@ -41,6 +47,9 @@ image: "/images/articles/engagement-party-planning-guide-hero.jpg"
 </figure>
 
 ## What Is an Engagement Party and Who Hosts It?
+![Engagement Party Planning Guide: How to Throw the Perfect Celebration in 2026: infographic image for What Is an Engagement Party and Who Hosts It?](/images/articles/engagement-party-planning-guide-infographic.jpg)
+*Infographic visual for What Is an Engagement Party and Who Hosts It?*
+
 
 An engagement party marks the transition from a private proposal to a shared celebration. It is typically the first event on the wedding planning calendar and sets the tone for everything that follows.
 
@@ -70,6 +79,9 @@ If your engagement is short (under six months), aim to host within the first fou
 </figure>
 
 ## Setting Your Engagement Party Budget
+![Engagement Party Planning Guide: How to Throw the Perfect Celebration in 2026: setup image for Setting Your Engagement Party Budget](/images/articles/engagement-party-planning-guide-setup.jpg)
+*Setup visual for Setting Your Engagement Party Budget*
+
 
 Before you book a venue or order a single balloon, establish a clear budget. This is the decision that shapes every other choice.
 
@@ -109,6 +121,9 @@ For couples who are also navigating how to manage shared finances for the first 
 ---
 
 ## Choosing the Perfect Venue
+![Engagement Party Planning Guide: How to Throw the Perfect Celebration in 2026: detail image for Choosing the Perfect Venue](/images/articles/engagement-party-planning-guide-detail.jpg)
+*Detail visual for Choosing the Perfect Venue*
+
 
 The venue sets the mood. It dictates your guest count, your catering options, your decoration style, and your overall vibe. Choose it wisely.
 
@@ -155,6 +170,9 @@ If you want something beyond the standard options:
 </figure>
 
 ## Engagement Party Invitations and Guest List
+![Engagement Party Planning Guide: How to Throw the Perfect Celebration in 2026: lifestyle image for Engagement Party Invitations and Guest List](/images/articles/engagement-party-planning-guide-lifestyle.jpg)
+*Lifestyle visual for Engagement Party Invitations and Guest List*
+
 
 ### Building Your Guest List
 
@@ -192,6 +210,9 @@ Keep it warm and direct. Here is a sample wording:
 ---
 
 ## Decorations and Theme Ideas
+![Engagement Party Planning Guide: How to Throw the Perfect Celebration in 2026: product lineup image for Decorations and Theme Ideas](/images/articles/engagement-party-planning-guide-product-lineup.jpg)
+*Product Lineup visual for Decorations and Theme Ideas*
+
 
 Decorations transform a space from ordinary to celebration-worthy. You do not need to spend a fortune — strategic choices in a few key areas create the biggest visual impact.
 
@@ -231,6 +252,9 @@ Choose a theme that reflects the couple's personality rather than following tren
 ---
 
 ## Food, Drinks, and Catering
+![Engagement Party Planning Guide: How to Throw the Perfect Celebration in 2026: tips image for Food, Drinks, and Catering](/images/articles/engagement-party-planning-guide-tips.jpg)
+*Tips visual for Food, Drinks, and Catering*
+
 
 Food and drinks are where most of your budget goes, and rightfully so. A well-fed guest is a happy guest.
 

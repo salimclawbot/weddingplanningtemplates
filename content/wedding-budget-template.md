@@ -1,15 +1,26 @@
 ---
 title: 'Wedding Budget Template 2026: Free Planner'
 meta_description: 'Free wedding budget template for 2026: track every cost, avoid hidden fees, and stay on budget with our complete breakdown for $20k–$80k weddings →'
+faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What should be prioritized first in wedding planning?","acceptedAnswer":{"@type":"Answer","text":"Start with total budget, guest count target, and preferred date window before booking vendors. These decisions guide nearly every other planning choice."}},{"@type":"Question","name":"How can couples keep wedding costs under control?","acceptedAnswer":{"@type":"Answer","text":"Use a category based budget with spending caps and a contingency line for surprises. Review commitments weekly so small overruns do not become major gaps."}},{"@type":"Question","name":"What is the best way to trim a guest list without conflict?","acceptedAnswer":{"@type":"Answer","text":"Set clear criteria together, such as relationship closeness and household limits, then apply rules consistently. Communicating early and kindly reduces misunderstandings."}},{"@type":"Question","name":"How do catering options affect total wedding value?","acceptedAnswer":{"@type":"Answer","text":"Catering style changes both per guest cost and guest experience, including service and waste levels. Compare package details carefully rather than headline price alone."}},{"@type":"Question","name":"Why is a wedding checklist important?","acceptedAnswer":{"@type":"Answer","text":"A structured checklist keeps deadlines visible and reduces last minute stress. It also helps coordinate tasks across venues, vendors, and family support."}}]}'
 ---
 
 # Wedding Budget Template 2026: Stay on Budget Without Missing a Thing
+
+<video autoplay muted loop playsinline poster="/images/articles/wedding-budget-template-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/wedding-budget-template-demo.mp4" type="video/mp4">
+</video>
 
 **By Sophie Clarke, Certified Wedding Planner** · Last updated March 10, 2026
 
 **The average couple exceeds their wedding budget by 26%. Not because they're irresponsible — because 40% of wedding costs are invisible until you're already committed. This budget template reveals every cost, prevents vendor surprises, and keeps you financially calm throughout planning.**
 
+![Wedding Budget Template 2026: Free Planner: hero image for this section](/images/articles/wedding-budget-template-hero.jpg)
+*Hero visual for this section*
+
 ## Table of Contents
+![Wedding Budget Template 2026: Free Planner: comparison image for Table of Contents](/images/articles/wedding-budget-template-comparison.jpg)
+*Comparison visual for Table of Contents*
+
 - [Complete Budget Breakdown by Category](#breakdown)
 - [Hidden Costs Most Couples Miss](#hidden-costs)
 - [Budget Templates by Wedding Size](#size-templates)
@@ -20,6 +31,9 @@ meta_description: 'Free wedding budget template for 2026: track every cost, avoi
 - [Sources](#sources)
 
 ## Complete Budget Breakdown by Category {#breakdown}
+![Wedding Budget Template 2026: Free Planner: infographic image for Complete Budget Breakdown by Category {#breakdown}](/images/articles/wedding-budget-template-infographic.jpg)
+*Infographic visual for Complete Budget Breakdown by Category {#breakdown}*
+
 
 | Category | % of Total | What's Included |
 |----------|------------|-----------------|
@@ -39,6 +53,9 @@ meta_description: 'Free wedding budget template for 2026: track every cost, avoi
 | Contingency | 10% | Non-negotiable buffer |
 
 ## Hidden Costs Most Couples Miss {#hidden-costs}
+![Wedding Budget Template 2026: Free Planner: setup image for Hidden Costs Most Couples Miss {#hidden-costs}](/images/articles/wedding-budget-template-setup.jpg)
+*Setup visual for Hidden Costs Most Couples Miss {#hidden-costs}*
+
 
 These are the costs that blow budgets:
 
@@ -71,6 +88,9 @@ These are the costs that blow budgets:
 | Printing rights/downloads | $200-500 if not included |
 
 ## Budget Templates by Wedding Size {#size-templates}
+![Wedding Budget Template 2026: Free Planner: detail image for Budget Templates by Wedding Size {#size-templates}](/images/articles/wedding-budget-template-detail.jpg)
+*Detail visual for Budget Templates by Wedding Size {#size-templates}*
+
 
 ### Micro-Wedding (Under 30 guests): $15,000-25,000
 
@@ -105,6 +125,9 @@ These are the costs that blow budgets:
 Scale up catering and venue proportionally. Photography, videography, and entertainment costs scale less steeply — negotiate package upgrades rather than proportional increases.
 
 ## Where to Negotiate and Where to Spend {#negotiation}
+![Wedding Budget Template 2026: Free Planner: lifestyle image for Where to Negotiate and Where to Spend {#negotiation}](/images/articles/wedding-budget-template-lifestyle.jpg)
+*Lifestyle visual for Where to Negotiate and Where to Spend {#negotiation}*
+
 
 ### Always Worth the Premium
 - Photography: poor photos are irreversible
@@ -122,6 +145,9 @@ Scale up catering and venue proportionally. Photography, videography, and entert
 - Small guest list: the per-head model means every additional 10 guests adds $1,500-3,000
 
 ## Budget Tracking Spreadsheet Template {#tracking}
+![Wedding Budget Template 2026: Free Planner: product lineup image for Budget Tracking Spreadsheet Template {#tracking}](/images/articles/wedding-budget-template-product-lineup.jpg)
+*Product Lineup visual for Budget Tracking Spreadsheet Template {#tracking}*
+
 
 | Item | Vendor | Quote | Negotiated | Deposit | Deposit Date | Balance | Balance Due | Paid |
 |------|--------|-------|------------|---------|--------------|---------|-------------|------|
@@ -157,6 +183,9 @@ Scale up catering and venue proportionally. Photography, videography, and entert
 | **Total** | | | | | | | | |
 
 ## Managing Money Between Partners {#partners}
+![Wedding Budget Template 2026: Free Planner: tips image for Managing Money Between Partners {#partners}](/images/articles/wedding-budget-template-tips.jpg)
+*Tips visual for Managing Money Between Partners {#partners}*
+
 
 Weddings surface financial communication patterns that persist in marriage. Establishing clear budget management early prevents conflict:
 
